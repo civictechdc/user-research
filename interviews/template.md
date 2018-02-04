@@ -6,7 +6,7 @@
 
 **Note Taker:** Cotyar
 
-[Script](https://github.com/codefordc/user-research/blob/master/2018-02-05-attendee-interview.md)
+[**Script**](https://github.com/codefordc/user-research/blob/master/2018-02-05-attendee-interview.md)
 
 ## Takeaways
 

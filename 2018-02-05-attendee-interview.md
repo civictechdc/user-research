@@ -51,7 +51,7 @@ You should never take charge of the mouse/trackpad. If someone does get well and
   * How hard or easy was it to find this information?
   * What questions would you have to understand whether you might want to work on a project? Does this page answer those questions?
   * How would you go about learning whether the project has open tasks that you could work on?
-* Show me how you would find out when is the next Code for DC project night?
+* Show me how you would find out when is the next Code for DC project night.
   * How hard or easy was it to find this information?
   * Is everything you would need to know to attend the next project night on this page?
   * What would you do next?

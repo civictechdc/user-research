@@ -33,26 +33,26 @@ Tangents are okay, and sometimes they’re golden! For example, the person you�
 
 ### Coming to Code for DC
 
-Where did you hear about Code for DC? What was described?
-When did you find about Code for DC? How long until you attended?
-What do you look for in activities you do after work?
-Have you attended other DC meetups?
-What got you to come the first time?
-[If returning] What got you to come back?
-What excited you about Code for DC?
-Were you aware of what kinds of skills were needed?
-What did you expect the skill level to be at Code for DC?
-What was potentially intimidating about Code for DC?
-Was Code for DC what you expected?
-What do you wish you had known? What would you tell a friend about Code for DC?
+* Where did you hear about Code for DC? What was described?
+* When did you find about Code for DC? How long until you attended?
+* What do you look for in activities you do after work?
+* Have you attended other DC meetups?
+* What got you to come the first time?
+* [If returning] What got you to come back?
+* What excited you about Code for DC?
+* Were you aware of what kinds of skills were needed?
+* What did you expect the skill level to be at Code for DC?
+* What was potentially intimidating about Code for DC?
+* Was Code for DC what you expected?
+* What do you wish you had known? What would you tell a friend about Code for DC?
 
 ### The Website
 
-Did you use the Code for DC website?
-Why did you go to the website?
-What frustrated you when you used the site?
-What worked well for you about the site?
-Did you find the information you were looking for?
+* Did you use the Code for DC website?
+* Why did you go to the website?
+* What frustrated you when you used the site?
+* What worked well for you about the site?
+* Did you find the information you were looking for?
 
 
 ## Think-Aloud Tasks (2x, 3–4 minutes each)
